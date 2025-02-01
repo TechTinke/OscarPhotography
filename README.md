@@ -1,8 +1,4 @@
-Sure! Here's a comprehensive `README.md` file for your project:
-
----
-
-# Beautiful Destinations Website
+Beautiful Destinations Website
 
 This project showcases a collection of stunning images and biographies of three beautiful destinations: **Sunsets**, **Rwanda**, and **Mombasa**. Each section features 10 images from various sources, along with a 200-word biography that explains why the images were chosen. The website is designed to be visually appealing and provides an immersive experience for visitors.
 
