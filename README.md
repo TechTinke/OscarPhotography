@@ -1,31 +1,39 @@
 Beautiful Destinations Website
 
-This project showcases a collection of stunning images and biographies of three beautiful destinations: **Sunsets**, **Rwanda**, and **Mombasa**. Each section features 10 images from various sources, along with a 200-word biography that explains why the images were chosen. The website is designed to be visually appealing and provides an immersive experience for visitors.
+This project showcases a collection of stunning images and biographies of three beautiful destinations:Sunsets, Rwanda and Mombasa. Each section features 10 images from various sources, along with a 200-word biography that explains why the images were chosen. The website is designed to be visually appealing and provides an immersive experience for visitors.
 
-## Project Overview
+---
+
+Project Overview
 
 The website is divided into three main sections, each representing a different theme or destination:
 
-1. **Sunsets**: A collection of breathtaking sunset images from around the world, showcasing the beauty of nature and how it transitions from day to night.
-2. **Rwanda**: A celebration of the natural beauty and rich culture of Rwanda, including its wildlife, landscapes, and historical sites.
-3. **Mombasa**: A visual tour of Mombasa, Kenya’s coastal city, with its beaches, cultural landmarks, and vibrant street life.
+1. Sunsets: A collection of breathtaking sunset images from around the world, showcasing the beauty of nature and how it transitions from day to night.
+2. Rwanda: A celebration of the natural beauty and rich culture of Rwanda, including its wildlife, landscapes, and historical sites.
+3. Mombasa: A visual tour of Mombasa, Kenya’s coastal city, with its beaches, cultural landmarks, and vibrant street life.
 
 The site uses HTML, CSS, and images sourced from the internet to present an elegant and engaging visual experience.
 
-## Features
+---
 
-- **Responsive Layout**: The website uses CSS Grid to display images in a clean, evenly spaced grid format. The layout adapts to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
-- **Hover Effects**: Images have a hover effect that subtly enlarges them when the user hovers over them, making the experience interactive.
-- **Biography Sections**: Beneath each image grid, there is a biography explaining the significance of the images and why each destination was chosen. This provides context and enhances the educational aspect of the site.
-- **Clean and Minimal Design**: The design focuses on the images, with a simple, modern layout that highlights the beauty of each destination.
+Features
 
-## Files Included
+Responsive Layout: The website uses CSS Grid to display images in a clean, evenly spaced grid format. The layout adapts to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+Hover Effects: Images have a hover effect that subtly enlarges them when the user hovers over them, making the experience interactive.
+Biography Sections: Beneath each image grid, there is a biography explaining the significance of the images and why each destination was chosen. This provides context and enhances the educational aspect of the site.
+Clean and Minimal Design: The design focuses on the images, with a simple, modern layout that highlights the beauty of each destination.
 
-1. `index.html` – The HTML file that structures the content of the website.
-2. `styles.css` – The CSS file responsible for styling the page and making it visually appealing.
+---
+
+Files Included
+
+1. index.html – The HTML file that structures the content of the website.
+2. styles.css – The CSS file responsible for styling the page and making it visually appealing.
 3. Image sources – Links to images sourced from publicly available websites.
 
-## Installation
+---
+
+Installation
 
 To get started, you can either view the website locally or host it on a server. Here are the steps for both options:
 
