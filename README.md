@@ -107,8 +107,6 @@ If you have any questions or suggestions, feel free to reach out via email at ma
 
 ---
 
-### Additional Notes
+Additional Notes
 
-- **Images Source**: All images used in this project are publicly available and sourced from the internet. Please ensure that you have proper licensing if you plan to use these images in a commercial context.
-
-Let me know if you'd like to add any other specific sections or change anything in the `README`.
+Images Source: All images used in this project are publicly available and sourced from the internet. Please ensure that you have proper licensing if you plan to use these images in a commercial context.
