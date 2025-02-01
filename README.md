@@ -103,7 +103,7 @@ This project is licensed under the MIT License
 
 Contact
 
-If you have any questions or suggestions, feel free to reach out via email at maingioscar2@gmail.com or visit the project repository on
+If you have any questions or suggestions, feel free to reach out via email at maingioscar2@gmail.com or visit the project on  https://techtinke.github.io/OscarPhotography/
 
 ---
 
