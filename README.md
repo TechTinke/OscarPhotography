@@ -37,53 +37,51 @@ Installation
 
 To get started, you can either view the website locally or host it on a server. Here are the steps for both options:
 
-### Viewing Locally
+---
+
+Viewing Locally
 
 1. Clone the repository or download the files to your local computer.
-2. Ensure that both the `index.html` and `styles.css` files are in the same directory.
-3. Open `index.html` in any modern web browser (e.g., Google Chrome, Mozilla Firefox).
+2. Ensure that both the index.html and styles.css files are in the same directory.
+3. Open index.html in any modern web browser (e.g., Google Chrome, Mozilla Firefox).
 
-### Hosting on a Web Server
+---
 
-To host the website on a live server, you can use platforms like:
+How the Website Works
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
+1. HTML Structure:
 
-Upload both the `index.html` and `styles.css` files to your chosen platform, and follow the instructions to deploy the website.
-
-## How the Website Works
-
-1. **HTML Structure**:
-
-   - The website is structured into three sections: Sunsets, Rwanda, and Mombasa. Each section contains an `h2` heading, a grid of 10 images, and a biography paragraph.
-   - Each image has a `src` attribute pointing to an online image URL.
+   - The website is structured into three sections: Sunsets, Rwanda, and Mombasa. Each section contains an h2 heading, a grid of 10 images, and a biography paragraph.
+   - Each image has a src attribute pointing to an online image URL.
    - A footer provides copyright information.
 
-2. **CSS Styling**:
+2. CSS Styling:
 
    - The website uses Flexbox and Grid Layout to ensure that images are spaced evenly within each section.
-   - The `.image-grid` class defines the grid for images, with `grid-template-columns` ensuring that the images are laid out in five equal columns.
+   - The .image-grid class defines the grid for images, with `grid-template-columns ensuring that the images are laid out in five equal columns.
    - A hover effect on images scales them slightly to provide interactivity.
    - The color scheme uses subtle tones to let the images stand out, with darker colors for headers and footers.
 
-3. **Responsiveness**:
+3. Responsiveness:
    - The layout is designed to be responsive. On smaller screens, such as mobile devices, the images will automatically stack vertically, ensuring that the content remains legible and accessible.
 
-## Customization
+---
+
+Customization
 
 You can customize this project to suit your needs. Here are a few ways you can make changes:
 
-- **Change the images**: If you have specific images you'd like to display, simply replace the `src` attributes in the `img` tags with your new image URLs.
-- **Modify the biography text**: Each section has a biography explaining why the images were chosen. Feel free to update these descriptions with your own text or add new sections.
-- **Change the layout**: The CSS file is flexible. You can adjust the grid layout, colors, font styles, or spacing to better fit your desired aesthetic.
+Change the images: If you have specific images you'd like to display, simply replace the src attributes in the img tags with your new image URLs.
+Modify the biography text: Each section has a biography explaining why the images were chosen. Feel free to update these descriptions with your own text or add new sections.
+Change the layout: The CSS file is flexible. You can adjust the grid layout, colors, font styles, or spacing to better fit your desired aesthetic.
 
-## Technologies Used
+---
 
-- **HTML5**: Used for structuring the content of the website.
-- **CSS3**: Used for styling the website, including grid layouts, hover effects, and responsive design.
-- **Responsive Design**: Ensures that the website works well on devices of different screen sizes, from mobile phones to desktop computers.
+Technologies Used
+
+HTML5: Used for structuring the content of the website.
+CSS3: Used for styling the website, including grid layouts, hover effects, and responsive design.
+Responsive Design: Ensures that the website works well on devices of different screen sizes, from mobile phones to desktop computers.
 
 ## Contributing
 
