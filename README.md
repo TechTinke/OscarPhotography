@@ -83,7 +83,9 @@ HTML5: Used for structuring the content of the website.
 CSS3: Used for styling the website, including grid layouts, hover effects, and responsive design.
 Responsive Design: Ensures that the website works well on devices of different screen sizes, from mobile phones to desktop computers.
 
-## Contributing
+---
+
+Contributing
 
 If you'd like to contribute to this project, you are welcome to fork the repository and submit a pull request. Some ways you could contribute include:
 
@@ -91,13 +93,17 @@ If you'd like to contribute to this project, you are welcome to fork the reposit
 - Improving the website’s design or adding new features.
 - Reporting any bugs or issues you encounter.
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+License
 
-## Contact
+This project is licensed under the MIT License
 
-If you have any questions or suggestions, feel free to reach out via email at [your-email@example.com] or visit the project repository on [GitHub](https://github.com/your-username/beautiful-destinations).
+---
+
+Contact
+
+If you have any questions or suggestions, feel free to reach out via email at maingioscar2@gmail.com or visit the project repository on
 
 ---
 
